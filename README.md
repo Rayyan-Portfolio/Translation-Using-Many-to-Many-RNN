@@ -1,4 +1,4 @@
-# Translation-Using-Many-to-Many-RNN
+# English-to-Urdu Translation-Using-Many-to-Many-RNN
 
 ## Reporting the Limitations of RNNs
 RNNs have the following limitations, especially in the context of language translation:
